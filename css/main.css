@@ -2,25 +2,32 @@ html {
   box-sizing: border-box;
   font-family: "Crimson Text";
   border: 2px;
-  padding: 1rem;
   line-height: 1.3;
-  color: #555;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-h1 {
-  font-size: 1.125rem;
+article h1 {
+  font-size: 1.5rem;
+  color: #222;
 }
 
-p {
+article header{
+  font-weight: lighter;
+}
+
+article header p {
   font-style: italic;
 }
 
-blockquote {
+article ol {
+  padding-left: 1rem;
+}
+
+.quote {
   font-size: 1.125rem;
-  color: #999;
+  color: #555;
   margin: 1rem;
 }
