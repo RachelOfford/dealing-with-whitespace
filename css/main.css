@@ -29,12 +29,11 @@ article header {
 article header p {
   font-style: italic;
   font-size: 1em;
-  margin: -1rem;
+  margin: -1.5rem;
 }
 
 article p {
   padding-right: 1rem;
-  margin: 1rem;
 }
 
 article ol {
