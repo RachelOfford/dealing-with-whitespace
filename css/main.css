@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  margin: 1rem;
+  margin: -4rem 1rem;
   border: 2px;
 }
 
@@ -34,7 +34,7 @@ article header p {
 }
 
 article p {
-  padding-right: 1rem
+  padding-right: 1rem;
 }
 
 article ol {
