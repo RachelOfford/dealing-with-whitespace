@@ -14,7 +14,7 @@ body {
 
 article {
   color: #222;
-  margin: -1rem;
+  margin: -1rem .5rem;
 }
 
 article h1 {
