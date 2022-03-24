@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  margin: 1rem;
+  margin: 1em;
 }
 
 article {
@@ -19,6 +19,7 @@ article {
 
 article h1 {
   font-size: 1.5rem;
+  font-weight: lighter;
 }
 
 article header {
