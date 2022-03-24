@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  margin: 1rem;
+  margin: 25px;
 }
 
 article {
@@ -32,11 +32,11 @@ article header p {
 }
 
 article p {
-  padding-right: 1em;
+  padding-right: 10px;
 }
 
 article ol {
-  padding-left: 1em;
+  padding-left: 10px;
 }
 
 blockquote {
