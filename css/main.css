@@ -10,6 +10,7 @@ html {
 
 body {
   margin: .55rem;
+  border: 2px;
 }
 
 article {
@@ -28,7 +29,6 @@ article header {
 article header p {
   font-style: italic;
   font-size: 1em;
-  border: 2px;
 }
 
 article p {
