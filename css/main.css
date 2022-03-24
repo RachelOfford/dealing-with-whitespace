@@ -15,12 +15,12 @@ body {
 
 article {
   color: #222;
+  margin: -1rem;
 }
 
 article h1 {
   font-size: 1.5rem;
   font-weight: lighter;
-  margin: -1rem;
 }
 
 article header {
