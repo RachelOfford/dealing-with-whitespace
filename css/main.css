@@ -19,12 +19,12 @@ article {
 article h1 {
   font-size: 1.5rem;
   font-weight: lighter;
-  margin: 1rem;
 }
 
 article header {
   font-weight: lighter;
   border: 2px;
+  margin: 1rem;
 }
 
 article header p {
@@ -34,11 +34,12 @@ article header p {
 }
 
 article p {
-  margin: 3.5rem -1rem;
+  margin: 3.5rem 1rem;
 }
 
 article ol {
   margin: -1rem;
+  padding-left: .5rem;
 }
 
 blockquote {
