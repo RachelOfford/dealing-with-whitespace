@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  margin: 25px;
+  margin: 20px;
 }
 
 article {
@@ -42,8 +42,4 @@ article ol {
 blockquote {
   font-size: 1.125rem;
   color: #555;
-}
-
-.quote {
-
 }
