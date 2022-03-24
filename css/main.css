@@ -9,7 +9,7 @@ html {
 }
 
 body {
-
+margin:
 }
 
 article {
@@ -34,7 +34,7 @@ article header p {
 }
 
 article p {
-  margin: 2rem 0rem;
+  margin: 2rem .5rem;
 }
 
 article ol {
