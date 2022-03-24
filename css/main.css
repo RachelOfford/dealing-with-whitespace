@@ -32,7 +32,7 @@ article header p {
 }
 
 article p {
-  padding-right: 1rem;
+  margin: 1rem;
 }
 
 article ol {
