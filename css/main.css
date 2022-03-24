@@ -29,8 +29,8 @@ article header {
 article header p {
   font-style: italic;
   font-size: 1em;
-  margin: -1rem;
-  padding-left: 1rem
+  margin: -1.1rem;
+  padding-left: 1rem;
 }
 
 article p {
