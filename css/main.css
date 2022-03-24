@@ -19,6 +19,7 @@ article {
 article h1 {
   font-size: 1.5rem;
   font-weight: lighter;
+  padding-left: 1rem;
 }
 
 article header {
@@ -30,7 +31,8 @@ article header p {
   font-style: italic;
   font-size: 1em;
   border: 2px;
-  margin: -.25rem;
+  padding-left: 1rem;
+  margin: -1rem;
 }
 
 article p {
