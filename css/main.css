@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  margin: 0.9rem;
+  margin: 1rem;
 }
 
 article {
@@ -39,11 +39,7 @@ article ol {
   padding-left: 1rem;
 }
 
-blockquote {
+blockquote .quote {
   font-size: 1.125rem;
   color: #555;
-}
-
-.quote {
-
 }
