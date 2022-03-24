@@ -41,12 +41,12 @@ article p {
 article ol {
   margin: 1rem;
   padding-left: .5rem;
+  margin: -2rem;
 }
 
 blockquote {
   font-size: 1.125rem;
   color: #555;
-  margin: -4rem;
 }
 
 .quote {
