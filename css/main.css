@@ -35,7 +35,7 @@ article header p {
 
 article p {
   padding-right: 1rem;
-  margin: 1rem 0rem;
+  border: 2px;
 }
 
 article ol {
