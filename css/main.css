@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  margin: -1rem .5rem;
+  margin: 1rem .5rem;
 }
 
 article {
@@ -39,7 +39,7 @@ article p {
 }
 
 article ol {
-  margin: -1rem;
+  margin: 1rem;
   padding-left: .5rem;
 }
 
