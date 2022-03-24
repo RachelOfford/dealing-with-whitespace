@@ -9,12 +9,19 @@ html {
   box-sizing: inherit;
 }
 
-article h1 {
-  font-size: 1.5rem;
+body {
+  margin: 1rem;
+}
+
+article {
   color: #222;
 }
 
-article header{
+article h1 {
+  font-size: 1.5rem;
+}
+
+article header {
   font-weight: lighter;
 }
 
@@ -22,12 +29,15 @@ article header p {
   font-style: italic;
 }
 
+article p {
+  padding-right: 1rem;
+}
+
 article ol {
   padding-left: 1rem;
 }
 
-.quote {
+blockquote {
   font-size: 1.125rem;
   color: #555;
-  margin: 1rem;
 }
