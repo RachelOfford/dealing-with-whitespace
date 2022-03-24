@@ -10,6 +10,7 @@ html {
 
 body {
   margin: .7rem 1rem;
+  border: 2px;
 }
 
 article {
