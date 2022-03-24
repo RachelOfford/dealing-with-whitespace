@@ -29,7 +29,7 @@ article header p {
   font-style: italic;
   font-size: 1em;
   border: 2px;
-  text-decoration: underline #999;
+  text-decoration: horizontal #999;
 }
 
 article p {
