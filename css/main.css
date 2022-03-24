@@ -28,6 +28,7 @@ article header {
 
 article header p {
   font-style: italic;
+  padding-top: 1rem;
 }
 
 article p {
