@@ -36,8 +36,7 @@ article header p {
 }
 
 article p {
-  margin: 1rem;
-  line-height: 1.5;
+  margin: 2.5rem 1rem;
 }
 
 article ol {
@@ -47,6 +46,7 @@ article ol {
 blockquote {
   font-size: 1.125rem;
   color: #555;
+  margin: -1.2rem 2.5rem;
 }
 
 .quote {
