@@ -36,7 +36,8 @@ article header p {
 }
 
 article p {
-  margin: 2.5rem 1rem;
+  margin-top: 0px;
+  margin: 2px;
 }
 
 article ol {
