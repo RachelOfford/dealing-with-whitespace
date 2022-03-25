@@ -36,6 +36,10 @@ article header p {
 }
 
 article p {
+  margin: 3rem 1rem;
+}
+
+article p {
   margin: 2.5rem 1rem;
 }
 
